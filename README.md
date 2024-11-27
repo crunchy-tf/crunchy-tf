@@ -47,11 +47,6 @@
 
 ---
 
-### Now Playing:
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vhxuwz08ir9q8fm2a1nq9leev&unique={true|1|on|yes})
-
----
 
 ### Languages and Tools:
 
@@ -149,3 +144,10 @@
             width="40" height="40" />
     </a>
 </p>
+
+---
+
+### Now Playing:
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vhxuwz08ir9q8fm2a1nq9leev&unique={true|1|on|yes})
+
