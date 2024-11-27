@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **SvelteKit and Advanced Kubernetes Orchestration**
 - 👯 I’m looking to collaborate on **Open-Source DevOps Automation Projects**
 - 🤝 I’m looking for help with **AI-Powered Projects**
-- 👨‍💻 All of my projects are available at <a href="www.ayoubdhaouadi.com">ayoubdhaouadi.com</a>
+- 👨‍💻 All of my projects are available at [ayoubdhaouadi.com](https://www.ayoubdhaouadi.com)
 - 💬 Ask me about **Creative Tech: How my background as a musician enhances my software projects**
 - 📫 How to reach me: **contact@ayoubdhaouadi.com**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ayoub-dhaouadi-dev/)
