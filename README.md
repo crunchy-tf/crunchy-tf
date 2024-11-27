@@ -49,14 +49,7 @@
 
 ### Now Playing:
 
-<object type="image/svg+xml"
-    data="https://spotify-recently-played-readme.vercel.app/api?user=vhxuwz08ir9q8fm2a1nq9leev&unique={true|1|on|yes}"></object>
-
----
-
-### Streak Stats:
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crunchy-tf&" alt="crunchy-tf" /></p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vhxuwz08ir9q8fm2a1nq9leev&unique={true|1|on|yes})
 
 ---
 
@@ -85,9 +78,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
