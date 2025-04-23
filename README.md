@@ -5,12 +5,8 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on **Finding an internship**
-- 🌱 I’m currently learning **SvelteKit and Advanced Kubernetes Orchestration**
-- 👯 I’m looking to collaborate on **Open-Source DevOps Automation Projects**
-- 🤝 I’m looking for help with **AI-Powered Projects**
+- 🔭 I’m currently working on my CS Bachelor Capstone Project
 - 👨‍💻 All of my projects are available at [ayoubdhaouadi.com](https://www.ayoubdhaouadi.com)
-- 💬 Ask me about **Creative Tech: How my background as a musician enhances my software projects**
 - 📫 How to reach me: **contact@ayoubdhaouadi.com**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ayoub-dhaouadi-dev/)
 - ⚡ Fun fact: **When I’m not coding, you can find me playing piano 🎹 for rock & jazz bands**
