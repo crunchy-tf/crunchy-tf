@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
-<h3 align="center">I build software and implement devops/cloud solutions</h3>
+<h3 align="center">I build software!</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my learning more about MCP and making custom AI solutions
 - 👨‍💻 All of my projects are available at [ayoubdhaouadi.com](https://www.ayoubdhaouadi.com)
 - 📫 How to reach me: **contact@ayoubdhaouadi.com**
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ayoub-dhaouadi-dev/)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ayoub-dhaouadi-eng/)
 - ⚡ Fun fact: **When I’m not coding, you can find me playing piano 🎹 for rock & jazz bands**
 
 ---
@@ -16,7 +16,7 @@
 ### Connect with me:
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/ayoub-dhaouadi-dev" target="_blank">
+    <a href="https://www.linkedin.com/in/ayoub-dhaouadi-eng" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="linkedin logo" />
     </a>
