@@ -5,7 +5,7 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on my CS Bachelor Capstone Project
+- 🔭 I’m currently working on my learning more about MCP and making custom AI solutions
 - 👨‍💻 All of my projects are available at [ayoubdhaouadi.com](https://www.ayoubdhaouadi.com)
 - 📫 How to reach me: **contact@ayoubdhaouadi.com**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ayoub-dhaouadi-dev/)
