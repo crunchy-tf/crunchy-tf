@@ -32,19 +32,6 @@
 
 ---
 
-### Stats:
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=crunchy-tf&radius=16&theme=react&area=true&order=5"
-        height="300" alt="activity-graph graph" />
-</div>
-
----
-
-
-
----
-
 ### Listening to:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vhxuwz08ir9q8fm2a1nq9leev&unique={true|1|on|yes})
