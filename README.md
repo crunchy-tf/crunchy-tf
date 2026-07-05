@@ -5,9 +5,8 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on MCP and making custom AI solutions
-- 👨‍💻 All of my projects are available at [ayoubdhaouadi.com](https://www.ayoubdhaouadi.com)
-- 📫 How to reach me: **contact@ayoubdhaouadi.com**
+- 🔭 I’m currently working on physics informed machine learning projects
+- 👨‍💻 All of my projects are available at [my website]([https://www.ayoubdhaouadi.com](https://ayoubdhaouadi.vercel.app/home))
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ayoub-dhaouadi-eng/)
 - ⚡ Fun fact: **When I’m not coding, you can find me playing piano 🎹 for rock & jazz bands**
 
