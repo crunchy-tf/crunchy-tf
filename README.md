@@ -34,4 +34,3 @@
 ### Listening to:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vhxuwz08ir9q8fm2a1nq9leev&unique={true|1|on|yes})
-
